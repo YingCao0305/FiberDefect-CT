@@ -1,4 +1,5 @@
 # FiberDefect-CT
+
 FiberDefect-CT dataset for "An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation" (Composites Communications)
 
 # How to cite
@@ -10,9 +11,11 @@ If you find the FiberDefect-CT dataset useful in your research, please cite our 
 Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation,
 Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
 </summary>
-
+</details>
 Email: [yingcao@smail.nju.edu.cn](mailto:yingcao@smail.nju.edu.cn)
+
 # License
+
 The FiberDefect-CT dataset is licensed under the Academic Non-Commercial Research License.
 
 ```
