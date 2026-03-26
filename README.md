@@ -1,57 +1,34 @@
 # FiberDefect-CT
 
-FiberDefect-CT dataset for "An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation" (Composites Communications)
+FiberDefect-CT dataset for *"An Efficient Segmentation Framework for Yarns and Defects in Woven Composites Based on Structure-Aware and Generative Augmentation"* (*Composites Communications*).
 
-# How to cite
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19228943.svg)](https://doi.org/10.5281/zenodo.19228943)
 
-If you find the FiberDefect-CT dataset useful in your research, please cite our work.
+## Dataset
 
-<details>
-<summary>
-Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation,
-Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
-</summary>
-</details>
-Email: yingcao@smail.nju.edu.cn
+The dataset is publicly available on Zenodo:  
+[https://doi.org/10.5281/zenodo.19228943](https://doi.org/10.5281/zenodo.19228943)
 
-# License
+## Description
 
-The FiberDefect-CT dataset is licensed under the Academic Non-Commercial Research License.
+This dataset contains CT slice images and corresponding pixel-level annotations for woven composites. It includes partial-slice CT images from nine different materials in two sectional directions, together with pixel-wise labels for warp yarns, weft yarns, and voids.
 
-```
-Academic Non-Commercial Research License
+## How to cite
 
-Copyright (c) 2026 [Ying Cao]
-All rights reserved.
+If you find the FiberDefect-CT dataset useful in your research, please cite both the dataset and the associated paper.
 
-Permission is hereby granted to any individual or non-profit academic institution to use, copy, modify, and distribute the materials in this repository solely for non-commercial academic research and educational purposes, subject to the following conditions:
+### Dataset
 
-1. Non-Commercial Use Only
-This repository and its contents, including but not limited to source code, scripts, models, annotations, documentation, and related materials, may be used only for non-commercial academic research and educational purposes.
+Cao, Y., Nie, Z., Sun, F., Zhao, Q., Li, C., & Yang, X. (2026). *FiberDefect-CT dataset for "An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation" (Composites Communications)* [Data set]. Zenodo.  
+[https://doi.org/10.5281/zenodo.19228943](https://doi.org/10.5281/zenodo.19228943)
 
-Commercial use of any kind is strictly prohibited without prior written permission from the copyright holder(s). Commercial use includes, but is not limited to, use in or for commercial products, services, consulting, proprietary workflows, industrial applications, or any activity intended for direct or indirect commercial advantage or monetary compensation.
+### Associated paper
 
-2. Required Citation
-Any publication, report, presentation, thesis, derivative work, or other public disclosure arising in whole or in part from the use of this repository or its contents must cite the following paper:
+Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang.  
+*An Efficient Segmentation Framework for Yarns and Defects in Woven Composites Based on Structure-Aware and Generative Augmentation*.  
+*Composites Communications*, Volume 64, 2026, 102800, ISSN 2452-2139.  
+[https://doi.org/10.1016/j.coco.2026.102800](https://doi.org/10.1016/j.coco.2026.102800)
 
-Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficient segmentation framework for yarns and defects in woven composites based on structure-aware and generative augmentation,
-Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
+## Contact
 
-3. Redistribution
-Redistribution of this repository or modified versions of it is permitted for non-commercial academic research and educational purposes only, provided that:
-(a) This license is included in full in any copy or redistribution;
-(b) Proper attribution is given to the original author(s); and
-(c) The citation requirement stated above is preserved.
-
-4. No Implicit Rights
-No patent rights, trademark rights, or other intellectual property rights are granted by this license except the limited rights expressly stated above.
-
-5. Disclaimer
-THIS REPOSITORY AND ALL MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
-IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE REPOSITORY OR THE USE OF OR OTHER DEALINGS IN THE REPOSITORY.
-
-6. Contact for Commercial Licensing
-For commercial use, please contact the author(s) or copyright holder(s) to obtain a separate written license.
-
-By accessing or using this repository, you agree to the terms of this license.
+Email: [yingcao@smail.nju.edu.cn](mailto:yingcao@smail.nju.edu.cn)
