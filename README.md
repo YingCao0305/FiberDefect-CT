@@ -12,7 +12,7 @@ Ying Cao, Ziwei Nie, Fangfang Sun, Qian Zhao, Chao Li, Xiaoping Yang, An efficie
 Composites Communications, Volume 64, 2026, 102800, ISSN 2452-2139, https://doi.org/10.1016/j.coco.2026.102800.
 </summary>
 </details>
-Email: [yingcao@smail.nju.edu.cn](mailto:yingcao@smail.nju.edu.cn)
+Email: yingcao@smail.nju.edu.cn
 
 # License
 
